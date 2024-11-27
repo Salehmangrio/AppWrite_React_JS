@@ -4,7 +4,7 @@ This documentation provides an overview of the configuration and functionality o
 
 - ## Documentation
 
-- [What is Appwrite and what functionalities it provides?](What%20is%20appwrite.md)
+- [What is Appwrite and what functionalities it provides?]((https://github.com/Salehmangrio/AppWrite_React_JS/blob/main/What%20is%20Appwrite%3F%3F.md))
 
 ## 1. **Appwrite Configuration (conf.js)**
 
