@@ -2,6 +2,7 @@
 
 This documentation provides an overview of the configuration and functionality of Appwrite authentication and database operations in the project.<br>
 
+- <a href="What is Appwrite??.md"> What is Appwrite in little Detail?</a>
 ## 1. **Appwrite Configuration (conf.js)**
 
 The **`conf.js`** file stores the configuration settings for connecting to Appwrite services such as authentication, database, and storage. It uses environment variables for secure configuration.
